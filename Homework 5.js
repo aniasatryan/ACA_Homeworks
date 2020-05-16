@@ -1,3 +1,4 @@
+//given a sorted array and a number, find the index of number using Binary Search algorithm 
 function binarySearch(value, arr) {
     let first = 0;    
     let last = arr.length - 1;   
